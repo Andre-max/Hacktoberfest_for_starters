@@ -16,7 +16,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 
 ## How Contribute to This Project
-Here is a simple way to contribut to the project.
+Here is a simple way to contribute to the project.
 * Create a simple 'Hello, World' script in a language of your choice
 
 ## Getting Started
@@ -41,7 +41,7 @@ git push origin branch-name
 * __Star this repository__ if you had fun!
 
 ### Create a `Hello, World!` Script
-Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
+Add a `yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
 print("hello world!")
 
